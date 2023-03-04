@@ -2,6 +2,7 @@ FROM python:3.8
 
 # ENV
 ENV user dreamhack
+# username check
 ENV port 8000
 
 # SET packages
